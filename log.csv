@@ -1,0 +1,21 @@
+12:15;argument;['(', 9, '-', 2, ')', '+', 1]
+12:15;sign;/
+12:15;argument;2
+12:15;result;4
+12:16;sign;+
+12:16;argument;[3, '*', '(', 15, '-', 10, ')', '-', 3, '*', 2]
+12:16;result;13
+12:16;sign;/
+12:16;argument;2
+12:16;result;6.5
+12:16;sign;+
+12:16;argument;4
+12:16;result;10.5
+12:16;sign;*
+12:16;argument;2
+12:16;result;21.0
+12:17;sign;/
+12:17;argument;7
+12:17;result;3
+12:17;sign;=
+12:17;result;3
